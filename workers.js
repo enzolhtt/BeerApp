@@ -7,7 +7,6 @@ const resourcesToCache = [
   '/',
   'index.html',
   'fetch.js',
-  'manifest.json',
   'addbeer.html'
   // Ajoutez ici toutes les ressources que vous souhaitez mettre en cache
 ];
