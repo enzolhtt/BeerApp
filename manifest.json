@@ -2,7 +2,7 @@
     "name": "BeersApp",
     "short_name": "BApp",
     "description": "Voici la meilleure application pour lister tes bières préférer !!",
-    "start_url": "./index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "purple",
